@@ -22,7 +22,7 @@ const NavBar = () => {
         )}
       </div>
       <ul
-        className={`md:flex duration-700 absolute md:static bg-sky-300 px-6
+        className={`md:flex rounded-lg font-semibold duration-700 absolute md:static bg-sky-300 px-6
       {
         ${open ? "top-16" : "-top-80"}
       }

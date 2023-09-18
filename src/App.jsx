@@ -9,7 +9,7 @@ function App() {
     <>
       <NavBar></NavBar>
       {/* <DaisyNav></DaisyNav> */}
-      <h1 className="text-7xl bg-rose-300">Vite + React</h1>
+      {/* <h1 className="text-7xl bg-rose-300">Vite + React</h1> */}
       {/* <PriceOption></PriceOption> */}
       <PriceOptions></PriceOptions>
     </>
